@@ -1,0 +1,26 @@
+/* PHASE 3: Layout */
+
+.content {
+  position: relative;
+  margin: 0 auto;
+  width: 900px;
+  background-color: #fff;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.content-section {
+  float: left;
+  width: 200px;
+  min-height: 200px;
+  padding: 20px;
+  /* border-right: 1px solid lightgray; */
+}
+
+.content-main {
+  float: left;
+  width: 620px;
+  min-height: 200px;
+  padding: 20px;
+}
